@@ -1,0 +1,40 @@
+##############################################
+# Coloring Map For （BMP73T102）
+##############################################
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+BMP73T102	KEYWORD1	
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+begin	KEYWORD2	
+dcMotorRun	KEYWORD2
+dcMotorStop	KEYWORD2
+dcMotorBrake	KEYWORD2
+getDcMotorRank	KEYWORD2
+	
+stepperMoveTo	KEYWORD2
+stepperMove	KEYWORD2
+getStepperMaxSpeed	KEYWORD2
+getStepperAcceleration	KEYWORD2
+getStepperPosition	KEYWORD2
+setStepperMaxSpeed	KEYWORD2
+setStepperAcceleration	KEYWORD2
+setStepperCurrentPosition	KEYWORD2
+
+setSpeed	KEYWORD2
+run	KEYWORD2	
+step	KEYWORD2
+stepperKeepRun	KEYWORD2
+computeNewSpeed	KEYWORD2
+getStepperDistanceToGo	KEYWORD2
+##############################################
+# Constants (LITERAL1)
+##############################################
+DC1	LITERAL1
+DC2	LITERAL1
+FORWARD	LITERAL1
+REVERSAL	LITERAL1
+FULL4WIRE	LITERAL1
+HALF4WIRE	LITERAL1
