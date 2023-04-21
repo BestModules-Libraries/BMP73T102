@@ -1,14 +1,14 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BMK56T004_V1.0.png" width="480" height="480"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BMP73T102_V1.0.png" width="480" height="480"> 
 </div> 
 
-BMK56T004 
+BMP73T102 
 ===========================================================
 
-The Best Modules BMK56T004 is a shield board for Wheel+4-key capacitive touch function, which uses an I2C interface for communication. This document describes the Arduino Lib function of the BMK56T004 and how to install the Arduino Lib. The example demonstrates how to obtain the touch value.
+The BMP73T102 is a shield board for dual-channel motor driver from Best Modules, which is controlled directly by pins. This document provides the description of the BMP73T102 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the functions of driving DC motor and stepper motor.
 
 
-This library can be installed via the Arduino Library manager. Search for **BMK56T004 **. 
+This library can be installed via the Arduino Library manager. Search for **BMP73T102**. 
 
 Repository Contents
 -------------------
@@ -21,7 +21,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMK56T004 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmk56t004.html#tab-product2 )** - Arduino Library Description.
+* **[BMP73T102 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmp73t102.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
